@@ -14,5 +14,5 @@ All numbers in the elves' list are in feet. How many total square feet of wrappi
 The goal of this assignement is to learn how to program properly using the  OOP ("Object-oriented") way. So the memory management in efficiency is not important for this assignement
 
 # reference
-http://sepwww.stanford.edu/sep/jon/family/jos/oop/oop1.htm
+http://sepwww.stanford.edu/sep/jon/family/jos/oop/oop1.htm <br>
 https://adventofcode.com/2015/day/2
